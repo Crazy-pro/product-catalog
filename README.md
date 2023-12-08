@@ -4,7 +4,9 @@ Thymeleaf Course Projects are a set of simple demo projects from 'Mastering Thym
 
 
 ### How to start:
-- Add later.
+1. Install and run any IDE for working with Java.
+2. Run the application and check end-points work using Postman and link below:
+    - http://localhost:8080/
 
 
 
