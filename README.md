@@ -12,7 +12,7 @@ Product Catalog is a simple demo project from 'Mastering Thymeleaf with Spring B
 
 ### Technologies:
 - Programming languages: Java;
-   - Spring (Boot, Core, WebMVC).
+   - Spring (Boot, Core, WebMVC, Security).
 - IDE: IntelliJ IDEA;
 - Tools: Postman, Git, HTML, CSS, Bootstrap, Maven, Thymeleaf, HTTPs, XML, YAML, JSON;
 - Others: GitHub, CircleCI, CodeCov, SonarLint, SonarCloud.
