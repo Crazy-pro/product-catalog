@@ -10,8 +10,11 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Install dependencies, run tests, and collect coverage
-          command: gradle build test
+          name: Install dependencies
+          command: mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+      - run:
+          name: Run tests and collect coverage
+          command: mvn -B test
       - codecov/upload
       - sonarcloud/scan
 
