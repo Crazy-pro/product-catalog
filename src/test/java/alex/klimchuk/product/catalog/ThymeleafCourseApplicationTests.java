@@ -9,5 +9,4 @@ public class ThymeleafCourseApplicationTests {
     @Test
     public void contextLoads() {
     }
-
 }
